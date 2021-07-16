@@ -113,7 +113,7 @@ namespace zip {
                 size = m_size-m_offset;
             }
             m_stb_stream.start_in = destination;
-            m_stb_stream
+            
             return size;
         }
         
